@@ -1,0 +1,13 @@
+div#sideMenu {
+  position: fixed;
+  right: 5px
+}
+
+ul#linkMenu {
+  background-color: cornflowerblue;
+}
+
+ul#linkMenu li {
+  margin: 10px;
+  margin-right: 30px;
+}
